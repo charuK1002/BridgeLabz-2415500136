@@ -32,8 +32,7 @@ from core fundamentals to advanced concepts like **OOPs, Functional Interfaces, 
 | Sep 22–24, 2025 | Real-world OOPs applications | Code Structuring |
 | Oct 13–15, 2025 | Functional & Marker Interfaces, Lambdas | Functional Programming |
 | Oct 27–29, 2025 | Packages, Exceptions, Wrapper Classes | Integration & Error Handling |
-| Nov 3-5, 2025 | Generics, Collection & JDBC | - Mastered Generics, Collections Framework (List, Set, Map) 💡.
-- Implemented CRUD operations using JDBC and MySQL 🔗. |
+| Nov 3-5, 2025 | Generics, Collection & JDBC | - Mastered Generics, Collections Framework (List, Set, Map) , Implemented CRUD operations using JDBC and MySQL 🔗. |
 ---
 
 ## 🧰 Tools Used
@@ -42,5 +41,6 @@ from core fundamentals to advanced concepts like **OOPs, Functional Interfaces, 
 - 🌿 **Git & GitHub** (Version Control)
 
 ---
+
 
 
