@@ -9,8 +9,8 @@ from core fundamentals to advanced concepts like **OOPs, Functional Interfaces, 
 
 | **Branch Name** | **Concept Covered** |
 |-----------------|---------------------|
-| `java-core` | Java basics — syntax, data types, loops, arrays, strings |
-| `java-oops` | Object-Oriented Programming — classes, inheritance, polymorphism |
+| `core-java` | Java basics — syntax, data types, loops, arrays, strings |
+| `oops` | Object-Oriented Programming — classes, inheritance, polymorphism |
 | `packages-in-java` | Packages & imports for code organization |
 | `wrapper-class` | Wrapper Classes, Autoboxing, Unboxing |
 | `functional-interface` | Functional, Default & Static methods, Lambdas |
@@ -41,6 +41,7 @@ from core fundamentals to advanced concepts like **OOPs, Functional Interfaces, 
 - 🌿 **Git & GitHub** (Version Control)
 
 ---
+
 
 
 
