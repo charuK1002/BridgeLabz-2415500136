@@ -1,0 +1,67 @@
+trees is a non hierarchical linear data structure 
+consists of nodes connected by edges 
+it is fast 
+use case-folder structure , DHT
+
+
+top node-root node (parent node ) 
+
+
+sub nodes- child node 
+
+n nodes=edges(n-1)
+
+
+root node is always 1 
+
+their is only one path between any two nodes 
+
+
+degree of a node= no of child of a particular node 
+
+degree of tree= node which have highest child of a node  (number of highest child)
+
+leaf node-node which have no child
+ 
+
+Internal node:-
+node which have at least one child
+except leaf node 
+can be called as parent node 
+
+
+level-each step from top to bottom {no starts from 0 }
+
+height-each edges counts till bottom 
+height of a tree=edges from root to bottom
+
+depth of a nodeee=edges from that node to root node
+
+depth of a tree=level of a tree
+
+
+
+
+
+
+types of trees-
+
+
+1.General tree
+2.Binary tree -every node has at most 2 child
+3.Binary search tree-root node should be > left but < right node 
+4.AVL tree-
+5.Red-black tree-
+6.N-ary tree-
+
+
+
+traversal-
+
+BFS
+DFS :
+	PREORDER (ROOT,LEFT;RIGHT)
+	INORDER (LEFT,ROOT,RIGHT)
+	POSTORDER(LEFT,RIGHT,ROOT)
+
+
